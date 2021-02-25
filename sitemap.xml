@@ -16,6 +16,20 @@
   </url>
   
   <url>
+    <loc>https://whitecaster.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-02-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://whitecaster.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-02-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://whitecaster.github.io/2020/12/17/hello-world/</loc>
     
     <lastmod>2020-12-17</lastmod>
@@ -32,21 +46,21 @@
 
   
   <url>
-    <loc>https://whitecaster.github.io/tags/linux/</loc>
+    <loc>https://whitecaster.github.io/tags/Linux/</loc>
     <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://whitecaster.github.io/tags/svn/</loc>
+    <loc>https://whitecaster.github.io/tags/Svn/</loc>
     <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://whitecaster.github.io/tags/markdown/</loc>
+    <loc>https://whitecaster.github.io/tags/MarkDown/</loc>
     <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
