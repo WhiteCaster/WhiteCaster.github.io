@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://daybreaks.cn/hexo/tags/index.html</loc>
+    <loc>https://whitecaster.github.io/tags/index.html</loc>
     
     <lastmod>2021-11-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://daybreaks.cn/hexo/2021/03/03/Android-9-0%EF%BC%88http%E8%AF%B7%E6%B1%82%EF%BC%89%E9%80%82%E9%85%8D/</loc>
+    <loc>https://whitecaster.github.io/2021/03/03/Android-9-0%EF%BC%88http%E8%AF%B7%E6%B1%82%EF%BC%89%E9%80%82%E9%85%8D/</loc>
     
     <lastmod>2021-11-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://daybreaks.cn/hexo/2021/06/03/Android-AAB-%E5%AE%89%E8%A3%85%E5%AF%BC%E5%87%BAApks-%E6%89%B9%E5%A4%84%E7%90%86-%E5%8F%8A%E6%B7%BB%E5%8A%A0%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95/</loc>
+    <loc>https://whitecaster.github.io/2021/06/03/Android-AAB-%E5%AE%89%E8%A3%85%E5%AF%BC%E5%87%BAApks-%E6%89%B9%E5%A4%84%E7%90%86-%E5%8F%8A%E6%B7%BB%E5%8A%A0%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95/</loc>
     
     <lastmod>2021-11-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://daybreaks.cn/hexo/2021/02/24/Linux%E4%B8%8BSvn%E7%9A%84%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://whitecaster.github.io/2021/02/24/Linux%E4%B8%8BSvn%E7%9A%84%E6%90%AD%E5%BB%BA/</loc>
     
     <lastmod>2021-11-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://daybreaks.cn/hexo/2020/12/26/MarkDown%E8%AF%AD%E6%B3%95/</loc>
+    <loc>https://whitecaster.github.io/2020/12/26/MarkDown%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2021-11-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://daybreaks.cn/hexo/categories/index.html</loc>
+    <loc>https://whitecaster.github.io/categories/index.html</loc>
     
     <lastmod>2021-11-05</lastmod>
     
@@ -45,7 +45,7 @@
   
 
   <url>
-    <loc>http://daybreaks.cn/hexo</loc>
+    <loc>https://whitecaster.github.io/</loc>
     <lastmod>2021-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -53,35 +53,35 @@
 
   
   <url>
-    <loc>http://daybreaks.cn/hexo/tags/Android/</loc>
+    <loc>https://whitecaster.github.io/tags/Android/</loc>
     <lastmod>2021-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://daybreaks.cn/hexo/tags/Bat/</loc>
+    <loc>https://whitecaster.github.io/tags/Bat/</loc>
     <lastmod>2021-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://daybreaks.cn/hexo/tags/Linux/</loc>
+    <loc>https://whitecaster.github.io/tags/Linux/</loc>
     <lastmod>2021-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://daybreaks.cn/hexo/tags/Svn/</loc>
+    <loc>https://whitecaster.github.io/tags/Svn/</loc>
     <lastmod>2021-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://daybreaks.cn/hexo/tags/MarkDown/</loc>
+    <loc>https://whitecaster.github.io/tags/MarkDown/</loc>
     <lastmod>2021-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
