@@ -6,7 +6,7 @@
   <link href="https://whitecaster.github.io/atom.xml" rel="self"/>
   
   <link href="https://whitecaster.github.io/"/>
-  <updated>2021-11-05T04:36:27.871Z</updated>
+  <updated>2021-12-18T09:19:50.431Z</updated>
   <id>https://whitecaster.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GameFrameWork下WebGL打包注意事项</title>
+    <link href="https://whitecaster.github.io/2021/12/18/gameframeworkwebgl/"/>
+    <id>https://whitecaster.github.io/2021/12/18/gameframeworkwebgl/</id>
+    <published>2021-12-18T07:00:30.000Z</published>
+    <updated>2021-12-18T09:19:50.431Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="GameFrameWork下WebGL打包"><a href="#GameFrameWork下WebGL打包" class="headerlink" title="GameFrameWork下WebGL打包"></a>GameFrameWork下WebGL打包</h1><p>Webgl下打包和其他模式并无太大区别 只要注意 两点</p><ol><li><p>GameFramework 下 AB包 加载方式 需要设置为 <code>LoadFromMemory</code> </p><img src="https://tva1.sinaimg.cn/large/e1b1a94bly1gxi35s46jfj20f50m6777.jpg"/></li><li><p>AB包不能使用虚拟文件系统 VFS 可以在 <code>ResourceCollection.xml</code> 中修改 去掉FileSystem</p><img src="https://tva1.sinaimg.cn/large/e1b1a94bly1gxi38khp3fj20m70330u3.jpg"/></li></ol><p>之后按照正常打包操作 打包完成后部署webgl即可</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="GameFramework" scheme="https://whitecaster.github.io/tags/GameFramework/"/>
+    
+    <category term="WebGL" scheme="https://whitecaster.github.io/tags/WebGL/"/>
+    
+  </entry>
   
   <entry>
     <title>Android AAB 安装导出Apks 批处理 及添加右键菜单</title>
