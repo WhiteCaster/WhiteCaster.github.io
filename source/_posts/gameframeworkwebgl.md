@@ -12,6 +12,8 @@ Webgl下打包和其他模式并无太大区别 只要注意 两点
 
    <img src="https://tva1.sinaimg.cn/large/e1b1a94bly1gxi35s46jfj20f50m6777.jpg"/>
 
+   如果有大量需要修改 可以直接修改`ResourceCollection.xml` `LoadType="1"`
+
 2. AB包不能使用虚拟文件系统 VFS 可以在 `ResourceCollection.xml` 中修改 去掉FileSystem
 
    <img src="https://tva1.sinaimg.cn/large/e1b1a94bly1gxi38khp3fj20m70330u3.jpg"/>
@@ -19,4 +21,8 @@ Webgl下打包和其他模式并无太大区别 只要注意 两点
 
 
 之后按照正常打包操作 打包完成后部署webgl即可
+
+PS: GameFrameWork打包推荐使用群友扩展的规则编辑器 
+
+[规则编辑器地址 https://github.com/northWolf/GameFramework.ResourceRuleEditor](https://github.com/northWolf/GameFramework.ResourceRuleEditor)
 
