@@ -1,7 +1,7 @@
 ---
 title: GameFrameWork下WebGL打包注意事项
 date: 2021-12-18 15:00:30
-tags:[GameFramework,WebGL]
+tags: [GameFramework,WebGL]
 ---
 
 # GameFrameWork下WebGL打包
