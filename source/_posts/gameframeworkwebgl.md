@@ -10,15 +10,19 @@ Webgl下打包和其他模式并无太大区别 只要注意 两点
 
 1. GameFramework 下 AB包 加载方式 需要设置为 `LoadFromMemory` 
 
-   <img src="https://tva1.sinaimg.cn/large/e1b1a94bly1gxi35s46jfj20f50m6777.jpg"/>
+   ![image-20230222192540199](https://scz-texture.oss-cn-beijing.aliyuncs.com/texture/image-20230222192540199.png)
 
    如果有大量需要修改 可以直接修改`ResourceCollection.xml` `LoadType="1"`
 
 2. AB包不能使用虚拟文件系统 VFS 可以在 `ResourceCollection.xml` 中修改 去掉FileSystem
 
-   <img src="https://tva1.sinaimg.cn/large/e1b1a94bly1gxi38khp3fj20m70330u3.jpg"/>
+   ![image-20230222192741550](https://scz-texture.oss-cn-beijing.aliyuncs.com/texture/image-20230222192741550.png)
 
 
+
+ 3. ResourceComponent  的ResourceMode  要设置为`Packeage`
+
+    ![image-20230222192848221](https://scz-texture.oss-cn-beijing.aliyuncs.com/texture/image-20230222192848221.png)
 
 之后按照正常打包操作 打包完成后部署webgl即可
 
